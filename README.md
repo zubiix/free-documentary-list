@@ -1,7 +1,11 @@
 # The Free Documentary List
 A curated list of over 100 free to watch documentaries on wide range of topics. With more than 80 hours of content its a smorgasbord of fascinating subjects to learn about and surely will be of great help or an epic time waster (better than facebook tho..). Take your time when watching these, some of them are worth a re-watch also. Enjoy
 
+## Contributing
+For contributions to this repo, please check out the [guidelines](CONTRIBUTING.md). 
+
 ## Categories
+---
 - [Creativity and Design](#creativity-and-design)
 - [Digital Revolution](#digital-revolution)
 - [Politics](#politics)
@@ -15,6 +19,7 @@ A curated list of over 100 free to watch documentaries on wide range of topics. 
 
 
 ### [Creativity and Design](#creativity-and-design)
+---
 - [Everything Is A Remix](http://www.youtube.com/watch?v=coGpmA4saEk)
 - [The Creative Brain: How Insight Works](http://www.dailymotion.com/video/xy9ag1_bbc-horizon-the-creative-brain-how-insight-works_tech)
 - [Teaching to See](https://vimeo.com/45232468)
@@ -28,6 +33,7 @@ A curated list of over 100 free to watch documentaries on wide range of topics. 
 
 
 ### [Digital Revolution](#digital-revolution)
+---
 - [Download: The True Story of the Internet](https://www.youtube.com/watch?v=qQwCx-Ey6x8)
 - [The Age of Big Data](http://gsis.mediacore.tv/media/bbc-horizon-the-age-of-big-data)
 - [Resonance: Beings of Frequency](http://www.youtube.com/watch?v=QV9dhGv_tTs)
@@ -39,6 +45,7 @@ A curated list of over 100 free to watch documentaries on wide range of topics. 
 - [How Hackers Changed the World](http://www.youtube.com/watch?v=OfCewYcnSu4)
 
 ### [Politics](#politics)
+---
 - [Owned and Operated](http://www.youtube.com/watch?v=njSV5LtVmR4)
 - [UnGrip](http://www.youtube.com/watch?v=tScuHwVtRcY)
 - [The Power Principle](https://www.youtube.com/watch?v=r5If2YaLtX4)
@@ -51,6 +58,7 @@ A curated list of over 100 free to watch documentaries on wide range of topics. 
 - [Rise Like Lions: Occupy Wall Street and the Seeds of Revolution](http://www.youtube.com/watch?v=W6dgLnn31nU)
 
 ### [Technology](#technology)
+---
 - [Ray Kurzweil: The Transcendent Man](https://www.youtube.com/watch?v=tsg-__K_IAI)
 - [How Robots Will Change the World](https://www.youtube.com/watch?v=LWk-8L9TP6s)
 - [Human 2.0: Mind Control Machine](https://www.youtube.com/watch?v=BNbK1e0wqEA)
@@ -61,6 +69,7 @@ A curated list of over 100 free to watch documentaries on wide range of topics. 
 - [Powering The Future: The Energy Revolution](https://www.youtube.com/watch?v=vOitpAR1PAE)
 
 ### [Art](#art)
+---
 - [Lord Of The Rings: Facts Behind The Fiction](https://www.youtube.com/watch?v=uB10j8H92Ig)
 - [Cosm: Alex Gray’s Visionary Art](https://www.youtube.com/watch?v=IlPniueuOKY)
 - [Salvador Dali: A Master of the Modern Era](http://www.youtube.com/watch?v=OkGfWZfRzWM)
@@ -68,6 +77,7 @@ A curated list of over 100 free to watch documentaries on wide range of topics. 
 - [Human](https://www.youtube.com/playlist?list=PLEgA6bEeal3yh19xRhfVt5q5xBohcPYz7)
 
 ### [Corporate Media](#corporate-media)
+---
 - [Weapons of Mass Deceptions](http://www.youtube.com/watch?v=wkkAXkhKg98)
 - [Secrets of the Superbrands](http://www.youtube.com/watch?v=TdkeMpN8hOI)
 - [Orwell Rolls in his Grave](http://www.youtube.com/watch?v=g_lYGyIaK80)
@@ -80,6 +90,7 @@ A curated list of over 100 free to watch documentaries on wide range of topics. 
 - [Outfoxed: Rupert Murdoch’s War on Journalism](http://vimeo.com/24935369)
 
 ### [Health](#health)
+---
 - [The Human Brain](https://www.youtube.com/watch?v=eltJIh7vhWw)
 - [The Truth About Exercise](http://www.unifiedstream.com/the-science-behind-high-intensity-interval-training/)
 - [How To Live To 101](https://vimeo.com/15131348)
@@ -92,6 +103,7 @@ A curated list of over 100 free to watch documentaries on wide range of topics. 
 - [The Living Matrix](https://www.youtube.com/watch?v=d5ZU0GSoeo8)
 
 ### [Drugs](#drugs)
+---
 - [The Union: The Business Behind Getting High](https://www.youtube.com/watch?v=rwkFmvIg4CU)
 - [The Drugging Of Our Children](http://www.youtube.com/watch?v=26e5PqrCePk)
 - [How Marijuana Affects Your Health](http://www.youtube.com/watch?v=hHnQ-YAqAsA)
@@ -104,6 +116,7 @@ A curated list of over 100 free to watch documentaries on wide range of topics. 
 - [Run From The Cure: The Rick Simpson Story](https://www.youtube.com/watch?v=hmYNLNF7NBw)
 
 ### [Psychology](#psychology)
+---
 - [How Smart Can We Get?](http://www.youtube.com/watch?v=vsFJ3jHmaEQ)
 - [The Science of Lust](http://www.youtube.com/watch?v=LCK6zoiafio)
 - [DNA: The Secret of Life](https://www.youtube.com/watch?v=d7ET4bbkTm0)
@@ -116,6 +129,7 @@ A curated list of over 100 free to watch documentaries on wide range of topics. 
 - [Secrets of the Mind](https://www.youtube.com/watch?v=zYy4afIWtug)
 
 ### [Environment](#environment)
+---
 - [Earthlings](http://www.youtube.com/watch?v=ce4DJh-L7Ys)
 - [Blue Gold: World Water Wars](http://www.youtube.com/watch?v=B1a3tjqQiBI)
 - [Tapped](http://www.hulu.com/watch/192680)
